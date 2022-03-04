@@ -1,7 +1,15 @@
 # Clubhouse
-DOMAIN-SUFFIX,Clubhouse.com
-DOMAIN-SUFFIX,Clubhouseapi.com
-DOMAIN-SUFFIX,pubnub.com
-DOMAIN-SUFFIX,pubnubapi.com
-DOMAIN-SUFFIX,joinClubhouse.com
-DOMAIN-SUFFIX,amplitude.com
+HOST,clubhouse.pubnub.com
+HOST,clubhouseprod.s3.amazonaws.com
+HOST-SUFFIX,clubhouse.com
+HOST-SUFFIX,clubhouseapi.com
+HOST-SUFFIX,joinclubhouse.com
+IP-CIDR,107.155.5.0/24
+IP-CIDR,128.1.193.0/24
+IP-CIDR,128.14.208.0/24
+IP-CIDR,129.227.234.0/24
+IP-CIDR,129.227.57.0/24
+IP-CIDR,129.227.71.0/24
+IP-CIDR,3.0.163.78/32
+IP-CIDR,52.52.84.170/32
+IP-CIDR,52.58.56.244/32
