@@ -56,3 +56,7 @@ IP-CIDR,173.192.231.32/27,no-resolve
 IP-CIDR,174.37.243.0/16,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,208.43.122.128/27,no-resolve
+USER-AGENT,Facebook*
+USER-AGENT,Messenger*
+USER-AGENT,Instagram*
+USER-AGENT,Whatsapp*
