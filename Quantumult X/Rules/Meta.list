@@ -60,3 +60,6 @@ USER-AGENT,Facebook*
 USER-AGENT,Messenger*
 USER-AGENT,Instagram*
 USER-AGENT,Whatsapp*
+# > Truth Social
+DOMAIN-SUFFIX,truthsocial.com
+USER-AGENT,TRUTHSOCIAL*
