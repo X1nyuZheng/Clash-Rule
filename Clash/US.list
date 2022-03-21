@@ -15,3 +15,10 @@ DOMAIN-SUFFIX,pbs.org
 # > Peacock
 PROCESS-NAME,com.peacocktv.peacockandroid
 DOMAIN-SUFFIX,peacocktv.com
+
+# Espn
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espn.net
+DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,espnqa.com
+DOMAIN-SUFFIX,watchespn.com
