@@ -8,8 +8,8 @@ IP-CIDR,129.227.71.0/24
 IP-CIDR,3.0.163.78/32
 IP-CIDR,52.52.84.170/32
 IP-CIDR,52.58.56.244/32
-HOST,clubhouse.pubnub.com
-HOST,clubhouseprod.s3.amazonaws.com
-HOST-SUFFIX,clubhouse.com
-HOST-SUFFIX,clubhouseapi.com
-HOST-SUFFIX,joinclubhouse.com
+DOMAIN,clubhouse.pubnub.com
+DOMAIN,clubhouseprod.s3.amazonaws.com
+DOMAIN-SUFFIX,clubhouse.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com

@@ -1,8 +1,8 @@
 # Clubhouse
-HOST,ap-oversea-tls.agora.io
-HOST,ap-oversea.agora.io
-HOST,ap-oversea2.agora.io
-HOST,report-oversea.agora.io
+DOMAIN,ap-oversea-tls.agora.io
+DOMAIN,ap-oversea.agora.io
+DOMAIN,ap-oversea2.agora.io
+DOMAIN,report-oversea.agora.io
 IP-CIDR,103.59.49.10/32
 IP-CIDR,103.65.41.130/32
 IP-CIDR,103.65.41.132/32
