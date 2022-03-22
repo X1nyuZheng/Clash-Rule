@@ -1,3 +1,6 @@
 # 内容：Fitness
 # 数量：1条
 DOMAIN,hls-svod.itunes.apple.com
+DOMAIN-SUFFIX,streamtheworld.com
+DOMAIN,radio-activity.itunes.apple.com
+DOMAIN,radio.itunes.apple.com
