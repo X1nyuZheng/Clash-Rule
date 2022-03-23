@@ -1,8 +1,11 @@
 # 内容：AppleTV
 # 数量：4条
-HOST,np-edge.itunes.apple.com,Apple TV+
-HOST,play-edge.itunes.apple.com,Apple TV+
-HOST-SUFFIX,tv.apple.com,Apple TV+
-HOST-SUFFIX,mzstatic.com,Apple TV+
-USER-AGENT,AppleTV*,AppleTV,Apple TV+
-USER-AGENT,com.apple.tv*,AppleTV,Apple TV+
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.tv*
+DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN,amp-api.podcasts.apple.com
+USER-AGENT,PODCASTS*
