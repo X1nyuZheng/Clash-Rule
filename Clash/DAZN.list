@@ -32,3 +32,4 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-KEYWORD,voddazn
 USER-AGENT,DAZN*
 DOMAIN-SUFFIX,dc1-vodhls-perform.secure.footprint.net
+DOMAIN,dcf-ak-livedazn.akamaized.net
