@@ -3,7 +3,7 @@
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
-＃DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,mzstatic.com
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 DOMAIN,bookkeeper.itunes.apple.com
