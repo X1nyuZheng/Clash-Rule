@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,store.apple.com.edgekey.net
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
 #DOMAIN-SUFFIX,mzstatic.com
+#DOMAIN-SUFFIX,shazam.com
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
