@@ -32,6 +32,7 @@ DOMAIN,vod-dash-uk-live.akamaized.net
 DOMAIN,vod-thumb-uk-live.akamaized.net
 DOMAIN,vod-sub-uk-live.akamaized.net
 DOMAIN,vod-sub-uk-live.akamaized.net
+DOMAIN,vod-hls-uk-live.akamaized.net
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
