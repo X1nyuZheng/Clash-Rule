@@ -51,6 +51,7 @@ USER-AGENT,ITV_Player*
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
+DOMAIN,api-itv-hub.conductrics.com
 # 内容：My5
 # 数量：4条
 USER-AGENT,My5*
