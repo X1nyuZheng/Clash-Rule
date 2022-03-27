@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
 DOMAIN,ak-jos-c4assets-com.akamaized.net
 DOMAIN-SUFFIX,cws.conviva.com
+DOMAIN,sdk.fra-01.braze.eu
+DOMAIN,cdn.braze.eu
 # 内容：BBC
 # 数量：3条
 DOMAIN-KEYWORD,uk-live
