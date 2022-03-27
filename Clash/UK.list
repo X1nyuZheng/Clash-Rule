@@ -16,6 +16,8 @@ USER-AGENT,skysports*
 USER-AGENT,All4*
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
+DOMAIN,ak-jos-c4assets-com.akamaized.net
+DOMAIN-SUFFIX,cws.conviva.com
 # 内容：BBC
 # 数量：3条
 DOMAIN-KEYWORD,uk-live
