@@ -36,5 +36,8 @@ DOMAIN-SUFFIX,espn.net
 DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,espnga.com
 DOMAIN-SUFFIX,watchespn.com
+# > Showtime
+DOMAIN-SUFFIX,showtimeanytime.com
+DOMAIN-SUFFIX,showtime.com
 # > Star
 DOMAIN-SUFFIX,media.starott.com
