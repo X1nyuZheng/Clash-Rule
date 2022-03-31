@@ -39,5 +39,9 @@ DOMAIN-SUFFIX,watchespn.com
 # > Showtime
 DOMAIN-SUFFIX,showtimeanytime.com
 DOMAIN-SUFFIX,showtime.com
+# epix
+DOMAIN-SUFFIX,epix.com
+#DOMAIN,cnd5.userzoom.com
+#DOMAIN,config.claspws.tv
 # > Star
 DOMAIN-SUFFIX,media.starott.com
