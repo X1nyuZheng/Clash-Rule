@@ -1,4 +1,5 @@
 # > Emby
 DOMAIN,emby.riches.cloud
 DOMAIN-SUFFIX,emby.wtf
+IP-CIDR,198.204.247.154/80
 DOMAIN-KEYWORD,emby
