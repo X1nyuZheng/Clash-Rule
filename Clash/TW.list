@@ -29,6 +29,7 @@ DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN,d5hpy42637ggu.cloudfront.net
 # 内容：KKTV
 # 数量：5条
 USER-AGENT,KKTV*
