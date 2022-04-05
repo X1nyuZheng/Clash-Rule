@@ -47,3 +47,4 @@ DOMAIN-SUFFIX,epix.com
 DOMAIN-SUFFIX,media.starott.com
 # > Iptv
 DOMAIN-SUFFIX,iptv66.tv
+IP-CIDR,185.169.253.94/32
