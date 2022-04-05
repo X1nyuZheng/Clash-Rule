@@ -45,3 +45,5 @@ DOMAIN-SUFFIX,epix.com
 #DOMAIN,config.claspws.tv
 # > Star
 DOMAIN-SUFFIX,media.starott.com
+# > Iptv
+DOMAIN,s1.iptv66.tv
