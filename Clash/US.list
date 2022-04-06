@@ -37,6 +37,8 @@ DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,espnga.com
 DOMAIN-SUFFIX,watchespn.com
 DOMAIN-SUFFIX,mparticle.com
+DOMAIN-SUFFIX,espn.api.edge.bamgrid.com
+#DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com
 #DOMAIN,vison.fn-pz.com
 # > Showtime
 DOMAIN-SUFFIX,showtimeanytime.com
