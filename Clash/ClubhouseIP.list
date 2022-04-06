@@ -1,5 +1,9 @@
 #其他直连
 DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,jinritemai.com
 # Clubhouse
 DOMAIN,ap-oversea-tls.agora.io
 DOMAIN,ap-oversea.agora.io
