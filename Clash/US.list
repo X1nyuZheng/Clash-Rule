@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,espn.net
 DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,espnga.com
 DOMAIN-SUFFIX,watchespn.com
-DOMAIN,nativesdks.mparticle.com
+DOMAIN-SUFFIX,mparticle.com
 #DOMAIN,vison.fn-pz.com
 # > Showtime
 DOMAIN-SUFFIX,showtimeanytime.com
