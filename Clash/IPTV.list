@@ -1,6 +1,5 @@
-# 内容：AppleTV
+# 内容：IPTV
 # 数量：4条
-DOMAIN,np-edge.itunes.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,tv.apple.com
-DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,qqtv.nl
+IP-CIDR,38.143.137.0/16
+IP-CIDR,39.135.55.0/16
