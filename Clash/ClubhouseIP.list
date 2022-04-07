@@ -11,8 +11,11 @@ DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,byteorge.com
-DOMAIN-SUFFIX, idouyinvod.com
-IP-CIDR, 119.188.235.0/16
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,bytemastatic.com
+IP-CIDR,218.58.169.95/32
+IP-CIDR,221.204.220.121/32
+IP-CIDR,119.188.235.0/16
 # Clubhouse
 DOMAIN,ap-oversea-tls.agora.io
 DOMAIN,ap-oversea.agora.io
