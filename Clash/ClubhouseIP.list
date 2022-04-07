@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,ecombdstatic.com
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN,activity-ag.awemeughun.com
 DOMAIN-SUFFIX,byteeffecttos.com
-
+USER-AGENT,douyin*
 # Clubhouse
 DOMAIN,ap-oversea-tls.agora.io
 DOMAIN,ap-oversea.agora.io
