@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,bytemastatic.com
 DOMAIN-SUFFIX,bytecdntp.com
 DOMAIN-SUFFIX,ecombdstatic.com
 DOMAIN-SUFFIX,bytegecko.com
+DOMAIN,activity-ag.awemeughun.com
 IP-CIDR,218.58.169.95/32
 IP-CIDR,221.204.220.121/32
 IP-CIDR,119.188.235.0/16
