@@ -54,3 +54,14 @@ DOMAIN-SUFFIX,media.starott.com
 DOMAIN-SUFFIX,iptv66.tv
 IP-CIDR,185.169.0.0/16
 IP-CIDR,31.220.41.100/32
+# > Paramount+
+PROCESS-NAME,com.cbs.app
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,link.theplatform.com
