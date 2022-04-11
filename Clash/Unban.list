@@ -2,6 +2,12 @@
 #Paramount+
 DOMAIN-SUFFIX,branch.io
 
+#hulu
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,ads-v-darwin.hulustream.com
+DOMAIN-SUFFIX,imrworldwide.com
+
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
