@@ -1,6 +1,6 @@
 # Unbreak 白名单 不应该被广告链接的网站
 #Paramount+
-#DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,branch.io
 
 #hulu
 #DOMAIN-SUFFIX,omtrdc.net
