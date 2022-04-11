@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,moatads.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,imrworldwide.com
+DOMAIN,imasdk.googleapis.com
 
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
