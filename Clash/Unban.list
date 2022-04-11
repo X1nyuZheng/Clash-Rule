@@ -1,5 +1,6 @@
 # Unbreak 白名单 不应该被广告链接的网站
 #Paramount+ & Hulu
+DOMAIN,imasdk.googleapis.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,newrelic.com
@@ -9,7 +10,6 @@ DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,moatads.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,imrworldwide.com
-DOMAIN,imasdk.googleapis.com
 
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
