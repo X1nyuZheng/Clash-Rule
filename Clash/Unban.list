@@ -1,6 +1,6 @@
 # Unbreak 白名单 不应该被广告链接的网站
 #Paramount+ & Hulu
-DOMAIN,imasdk.googleapis.com
+#DOMAIN,imasdk.googleapis.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,newrelic.com
