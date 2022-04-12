@@ -4,3 +4,8 @@ DOMAIN,hls-svod.itunes.apple.com
 DOMAIN-SUFFIX,streamtheworld.com
 DOMAIN,radio-activity.itunes.apple.com
 DOMAIN,radio.itunes.apple.com
+DOMAIN-SUFFIX,amp-api.podcasts.apple.com
+DOMAIN-SUFFIX,play-edge.itunes-apple.com
+DOMAIN-SUFFIX,gsp-ssl.ls.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,configuration.ls.apple.com
