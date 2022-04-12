@@ -1,3 +1,7 @@
+#britbox
+DOMAIN-SUFFIX,britbox.co.uk
+DOMAIN,api.raygun.com
+DOMAIN-SUFFIX,prod-tv.massive-itv.com
 # > Skysports
 DOMAIN-SUFFIX,condatis.sky
 DOMAIN-SUFFIX,urbanairship.com
