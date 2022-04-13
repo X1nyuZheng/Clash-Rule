@@ -1,6 +1,43 @@
-# 内容：AppleTV
-# 数量：4条
-DOMAIN,np-edge.itunes.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,tv.apple.com
-DOMAIN-SUFFIX,mzstatic.com
+# > bilibili
+DOMAIN,api.biliapi.com
+DOMAIN,api.biliapi.net
+DOMAIN,api.bilibili.com
+DOMAIN,app.biliapi.com
+DOMAIN,app.biliapi.net
+DOMAIN,app.bilibili.com
+DOMAIN,grpc.biliapi.net
+DOMAIN,m.bilibili.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN,www.bilibili.com
+DOMAIN-KEYWORD,cn-hk-eq-bcache-
+# > 愛奇藝台灣站
+DOMAIN,cache.video.iqiyi.com
+IP-CIDR,116.211.202.206/32
+IP-CIDR,116.211.202.216/32
+# > MangoTV(芒果TV国际)
+DOMAIN-SUFFIX,api.mgtv.com
+DOMAIN,mobileso.bz.mgtv.com
+# 内容：Bilibili 哔哩哔哩
+# 数量：21条
+USER-AGENT,Bilibili*
+USER-AGENT,bili*
+USER-AGENT,bili-inter*
+DOMAIN,apiintl.biliapi.net
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,bigfun.cn
+DOMAIN-SUFFIX,bigfunapp.cn
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,smtcdns.net
+IP-CIDR,203.107.1.0/16
