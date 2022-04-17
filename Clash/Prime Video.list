@@ -19,3 +19,10 @@ DOMAIN-KEYWORD,avoddashs
 DOMAIN,aivottevtad-a.akamaihd.net
 DOMAIN,aivottlinear-a.akamaihd.net
 DOMAIN,device-metrics-us.amazon.com
+# Amazon Music
+DOMAIN,arcus-uswest.amazon.com
+DOMAIN,cognito-identity.us-east-1.amazonaws.com
+DOMAIN,msh.amazon.com
+DOMAIN-SUFFIX,EXECUTE-API.US-EAST-1.AMAZONAWS.COM
+DOMAIN-SUFFIX,AMAZONAWS.COM
+DOMAIN-SUFFIX,AMAZON.COM
