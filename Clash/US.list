@@ -88,3 +88,6 @@ DOMAIN,cbs.penthera.com
 DOMAIN-SUFFIX,play.cbsi.video
 DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,theplatform.com
+#NBC Sports
+DOMAIN-SUFFIX,nbcsports.com
+IP-CIDR,23.13.187.124/32
