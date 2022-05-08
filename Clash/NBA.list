@@ -8,4 +8,9 @@ DOMAIN,nbaprop.tt.omtrdc.net
 DOMAIN,watchnba.cdnfastly.endeavorstreaming.net
 DOMAIN,nbaprop.sc.omtrdc.net
 DOMAIN,lion-nba-msl.akamaized.net
+DOMAIN-SUFFIX,dscd.akamai.net
+DOMAIN,nbaapi.neulion.com.akadns.net
+DOMAIN-SUFFIX,dscw16.akamai.net
+DOMAIN-SUFFIX,dsct.akamaiedge.net
+DOMAIN-SUFFIX,dscb.akamaiedge.net
 DOMAIN-SUFFIX,neulion.com
