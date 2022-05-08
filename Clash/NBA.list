@@ -13,4 +13,6 @@ DOMAIN,nbaapi.neulion.com.akadns.net
 DOMAIN-SUFFIX,dscw16.akamai.net
 DOMAIN-SUFFIX,dsct.akamaiedge.net
 DOMAIN-SUFFIX,dscb.akamaiedge.net
+DOMAIN,nbaapi.neulion.com.akadns.net
+DOMAIN,qosprod-1470947314.us-west-2.elb.amazonaws.com
 DOMAIN-SUFFIX,neulion.com
