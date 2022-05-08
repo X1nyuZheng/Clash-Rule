@@ -45,6 +45,7 @@ DOMAIN,espn.playback.edge.bamgrid.com
 IP-CIDR,52.98.74.178/32
 IP-CIDR,13.227.254.75/32
 IP-CIDR,35.71.150.26/32
+DOMAIN,a144.dscz.akamai.net
 DOMAIN,dualstack.dss-espn.map.fastly.net
 DOMAIN-SUFFIX,espn.api.edge.bamgrid.com
 #DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com
