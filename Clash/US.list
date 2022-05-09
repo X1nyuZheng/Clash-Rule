@@ -99,4 +99,6 @@ DOMAIN,streams.adobeprimetime.com
 DOMAIN-SUFFIX,fwmrm.net
 DOMAIN-SUFFIX,moatads.com
 DOMAIN,nbcuvideo.s.moatpixel.com
+DOMAIN,tvecsnbayarea.akamaized.net
+DOMAIN,tvecsncalifornia.akamaized.net
 IP-CIDR,23.13.187.124/32
