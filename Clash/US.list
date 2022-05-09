@@ -96,4 +96,7 @@ DOMAIN,olympicchannel.akamaized.net
 DOMAIN,sprtsecureassets.akamaized.net
 DOMAIN-SUFFIX,nbcolympics.com
 DOMAIN,streams.adobeprimetime.com
+DOMAIN-SUFFIX,fwmrm.net
+DOMAIN-SUFFIX,moatads.com
+DOMAIN,nbcuvideo.s.moatpixel.com
 IP-CIDR,23.13.187.124/32
