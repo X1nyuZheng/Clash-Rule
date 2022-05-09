@@ -90,4 +90,10 @@ DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,theplatform.com
 #NBC Sports
 DOMAIN-SUFFIX,nbcsports.com
+DOMAIN,hdliveextra-a.akamaihd.net
+DOMAIN,api.auth.adobe.com
+DOMAIN,olympicchannel.akamaized.net
+DOMAIN,sprtsecureassets.akamaized.net
+DOMAIN-SUFFIX,nbcolympics.com
+DOMAIN,streams.adobeprimetime.com
 IP-CIDR,23.13.187.124/32
