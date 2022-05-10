@@ -25,6 +25,7 @@ DOMAIN,sdk.fra-01.braze.eu
 DOMAIN,cdn.braze.eu
 DOMAIN,ssl-c4dotcom.2cnt.net
 DOMAIN,2a7e9.v.fwmrm.net
+DOMAIN-SUFFIX,s1.v.fwmrm.net
 # 内容：BBC
 # 数量：3条
 DOMAIN-KEYWORD,uk-live
