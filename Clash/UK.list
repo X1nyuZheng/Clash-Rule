@@ -67,4 +67,6 @@ DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
 DOMAIN,player.akamaized.net
 DOMAIN,akahls1.akamaized.net
+DOMAIN-KEYWORD,akahls
+DOMAIN,akahlslive-c5.akamaized.net
 DOMAIN-SUFFIX,youboranqs01.com
