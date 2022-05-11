@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamai.net
 # > PBS
 PROCESS-NAME,com.pbs.video
 DOMAIN-SUFFIX,pbs.org
