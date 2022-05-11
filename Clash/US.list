@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,akamaized.net
 # > PBS
 PROCESS-NAME,com.pbs.video
 DOMAIN-SUFFIX,pbs.org
@@ -101,4 +102,8 @@ DOMAIN-SUFFIX,moatads.com
 DOMAIN,nbcuvideo.s.moatpixel.com
 DOMAIN,tvecsnbayarea.akamaized.net
 DOMAIN,tvecsncalifornia.akamaized.net
+DOMAIN,a1303.dscw16.akamai.net
+DOMAIN,hdliveextra-a.akamaihd.net
+DOMAIN,sprtlive2.akamaized.net
+DOMAIN,sprtlive14.akamaized.net
 IP-CIDR,23.13.187.124/32
