@@ -74,6 +74,12 @@ DOMAIN-SUFFIX,media.starott.com
 DOMAIN-SUFFIX,iptv66.tv
 IP-CIDR,185.169.0.0/16
 IP-CIDR,31.220.41.100/32
+# 内容：Reddit Services
+# 数量：3条
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
 # > Paramount+
 PROCESS-NAME,com.cbs.app
 DOMAIN-SUFFIX,cbsi.com
