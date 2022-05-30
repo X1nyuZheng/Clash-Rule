@@ -18,3 +18,7 @@ DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,api.vc.bilibili.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,BILIBILI.COM
+HOST-SUFFIX,HDSLB.COM
+USER-AGENT,BILIBILI*
