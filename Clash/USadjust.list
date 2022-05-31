@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,iad-03.braze.com
 DOMAIN-SUFFIX,moatads.com
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,imrworldwide.com
+DOMAIN-SUFFIX,googleadservices.com
 # 内容：GoogleFCM 谷歌推送服务
 # 数量：35条
 DOMAIN,alt1-mtalk.google.com
