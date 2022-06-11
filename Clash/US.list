@@ -1,6 +1,8 @@
 # > PBS
 PROCESS-NAME,com.pbs.video
 DOMAIN-SUFFIX,pbs.org
+# ＞plutotv
+DOMAIN-SUFFIX,pluto.tv
 # > Peacock
 PROCESS-NAME,com.peacocktv.peacockandroid
 DOMAIN-SUFFIX,peacocktv.com
