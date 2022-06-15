@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,ngtv.io
 DOMAIN-SUFFIX,tntdrama.com
 DOMAIN-SUFFIX,tbs.com
+DOMAIN-SUFFIX,claspws.tv
+DOMAIN,braze-images.com
 USER-AGENT,TNT*
 # > Peacock
 PROCESS-NAME,com.peacocktv.peacockandroid
