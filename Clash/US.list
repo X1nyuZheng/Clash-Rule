@@ -3,6 +3,11 @@ PROCESS-NAME,com.pbs.video
 DOMAIN-SUFFIX,pbs.org
 # ＞plutotv
 DOMAIN-SUFFIX,pluto.tv
+# ＞TNT
+DOMAIN-SUFFIX,warnermediacdn.com
+DOMAIN,atlas.ngtv.io
+DOMAIN-SUFFIX,tntdrama.com
+USER-AGENT,TNT*
 # > Peacock
 PROCESS-NAME,com.peacocktv.peacockandroid
 DOMAIN-SUFFIX,peacocktv.com
