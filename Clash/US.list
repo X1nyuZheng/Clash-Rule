@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,CWS.CONVIVA.COM
 # > PBS
 PROCESS-NAME,com.pbs.video
 DOMAIN-SUFFIX,pbs.org
@@ -5,8 +6,9 @@ DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,pluto.tv
 # ＞TNT
 DOMAIN-SUFFIX,warnermediacdn.com
-DOMAIN,atlas.ngtv.io
+DOMAIN-SUFFIX,ngtv.io
 DOMAIN-SUFFIX,tntdrama.com
+DOMAIN-SUFFIX,tbs.com
 USER-AGENT,TNT*
 # > Peacock
 PROCESS-NAME,com.peacocktv.peacockandroid
