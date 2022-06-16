@@ -1,4 +1,8 @@
 DOMAIN-SUFFIX,CWS.CONVIVA.COM
+DOMAIN,sp.auth.adobe.com
+DOMAIN,api.auth.adobe.com
+# >StarZ
+DOMAIN-SUFFIX,starz.com
 # > PBS
 PROCESS-NAME,com.pbs.video
 DOMAIN-SUFFIX,pbs.org
