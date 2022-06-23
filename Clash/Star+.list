@@ -1,7 +1,25 @@
-# > Star+
-DOMAIN-SUFFIX,starplus.com
-DOMAIN-SUFFIX,starott.com
-DOMAIN,star.api.edge.bamgrid.com
-DOMAIN,star.connections.edge.bamgrid.com
-DOMAIN,star.content.edge.bamgrid.com
-DOMAIN,star.playback.edge.bamgrid.com
+# NAME: DiscoveryPlus
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-06-14 16:53:53
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 11
+# USER-AGENT: 2
+# TOTAL: 15
+DOMAIN,x-default-stgec.uplynk.com
+DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
+DOMAIN-SUFFIX,disco-api.com
+DOMAIN-SUFFIX,discovery.com
+DOMAIN-SUFFIX,discoveryplus.co.uk
+DOMAIN-SUFFIX,discoveryplus.com
+DOMAIN-SUFFIX,discoveryplus.in
+DOMAIN-SUFFIX,dnitv.com
+DOMAIN-SUFFIX,fwmrm.net
+DOMAIN-SUFFIX,getblueshift.com
+DOMAIN-SUFFIX,litix.io
+DOMAIN-SUFFIX,mobile-collector.newrelic.com
+DOMAIN-KEYWORD,discovery.uplynk.com
+DOMAIN,dplus-ph-prod-vod.akamaized.net
+USER-AGENT,DPlus*
+USER-AGENT,discovery+*
