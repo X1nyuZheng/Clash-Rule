@@ -6,4 +6,4 @@
 #!manual=https://github.com/DualSubs/DualSubs
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Streaming.png
 #[MITM]
-hostname = hostname = play.itunes.apple.com
+hostname = play.itunes.apple.com
