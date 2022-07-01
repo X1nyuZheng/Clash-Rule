@@ -1,0 +1,21 @@
+# Title: No Apple ads
+# Version: 20220522.1
+# Description: Block Apple advertising on Apple devices.
+# Adblock format compatible with AdGuard Home.
+# Information gathered from multiple adblocking forums, and Apple official SSL certificates.
+DOMAIN-SUFFIX,advertising.apple.com
+DOMAIN-SUFFIX,banners.itunes.apple.com
+DOMAIN-SUFFIX,iad.apple.com 
+DOMAIN-SUFFIX,iadcontent.apple.com
+DOMAIN-SUFFIX,iadctest.qwapi.com
+DOMAIN-SUFFIX,iadmoo.apple.com
+DOMAIN-SUFFIX,iadworkbench.apple.com 
+DOMAIN-SUFFIX,launch.apple.com 
+DOMAIN-SUFFIX,metrics.apple.com
+DOMAIN-SUFFIX,qwapi.apple.com
+DOMAIN-SUFFIX,securemetrics.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-KEYWORD,comscoreresearch.
+DOMAIN-SUFFIX,advp.apple.com
+DOMAIN-SUFFIX,iad-apple.com
+DOMAIN,webproxy-advp.iad-apple.com.akadns.net
