@@ -1,6 +1,9 @@
 DOMAIN-SUFFIX,CWS.CONVIVA.COM
 DOMAIN,sp.auth.adobe.com
 DOMAIN,api.auth.adobe.com
+#>MotoGP
+DOMAIN-SUFFIX,motogp.com
+DOMAIN-SUFFIX,dorna.com
 # >StarZ
 DOMAIN-SUFFIX,starz.com
 # > PBS
