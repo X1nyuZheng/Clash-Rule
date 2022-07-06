@@ -1,0 +1,16 @@
+#!name= Redirect
+#!desc= Joshua
+#!openUrl= https://github.com/X1nyuZheng/Clash-Rule/tree/master/mitm
+#!author= Joshua
+#!homepage= https://github.com/X1nyuZheng/Clash-Rule/tree/master/mitm
+#!icon= https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg
+
+
+[URL Rewrite]
+^https?:\/\/(ditu|maps).google\.ca https://maps.google.com 302
+^https?:\/\/(www.)?(g|google)\.ca https://www.google.com 302
+^https?:\/\/(ditu|maps).google\.co.uk https://maps.google.com 302
+^https?:\/\/(www.)?(g|google)\.co.uk https://www.google.com 302
+
+[MITM]
+hostname = ditu.google.ca,google.ca,map.google.ca,www.google.ca,ditu.google.co.uk,google.co.uk,map.google.co.uk,www.google.co.uk
