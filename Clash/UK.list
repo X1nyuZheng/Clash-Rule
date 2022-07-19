@@ -1,3 +1,9 @@
+# Matchroom
+DOMAIN-SUFFIX,matchroom.live
+DOMAIN,bds.spearad.video
+DOMAIN,streamamg-match01.akamaized.net
+DOMAIN,search.spotxchange.com
+-SUFFIX,streamamg.com
 DOMAIN,vs-hls-pushb-uk-live.akamaized.net
 DOMAIN,vs-hls-push-uk-live.akamaized.net
 #britbox
