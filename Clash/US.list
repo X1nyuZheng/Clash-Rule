@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,CWS.CONVIVA.COM
 DOMAIN,sp.auth.adobe.com
 DOMAIN,api.auth.adobe.com
+# Star+
+DOMAIN-SUFFIX,media.starott.com
 # NAME: TikTok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com
