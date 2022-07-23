@@ -1,13 +1,13 @@
-# > stan & 10play
-DOMAIN-SUFFIX.video
+# > stan
+DOMAIN-SUFFIX,stan.video
 DOMAIN,live02-stan.akamaized.net
 DOMAIN,live01-stan.akamaized.net 
 DOMAIN,eplvodcdn-s-mas.l.optusnet.com.au
 DOMAIN,mgd0ee5iankkv3gidl14rm7c0.litix.io
 DOMAIN,d27xxe7juh1us6.cloudfront.net
-DOMAIN-SUFFIX.com.au
+DOMAIN-SUFFIX,stan.com.au
 DOMAIN-SUFFIX,432-stan.akamaized.net
-DOMAIN-KEYWORD
+DOMAIN-KEYWORD,stan
 DOMAIN-SUFFIX,streamcoimg-a.akamaihd.net
 DOMAIN-SUFFIX,videocdn-sbs.akamaized.net
 DOMAIN-SUFFIX,optussport.tv
