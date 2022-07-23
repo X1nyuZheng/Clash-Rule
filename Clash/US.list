@@ -149,3 +149,8 @@ DOMAIN,hdliveextra-a.akamaihd.net
 DOMAIN,sprtlive2.akamaized.net
 DOMAIN,sprtlive14.akamaized.net
 IP-CIDR,23.13.187.124/32
+# FoxNow
+USER-AGENT,FOX%20NOW*
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,uplynk.com
