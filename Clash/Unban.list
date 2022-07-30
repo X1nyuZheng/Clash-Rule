@@ -2,6 +2,10 @@
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,getui.com
+DOMAIN,ulogs.umengcloud.com
+#host, ad.jiemian.com
 # Getui
 DOMAIN-SUFFIX,dizhensubao.getui.com
 
