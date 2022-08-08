@@ -3,6 +3,12 @@ DOMAIN,sp.auth.adobe.com
 DOMAIN,api.auth.adobe.com
 # Star+
 DOMAIN-SUFFIX,media.starott.com
+# > Truth Social
+DOMAIN-SUFFIX,truthsocial.com
+USER-AGENT,TRUTHSOCIAL*
+DOMAIN,rumble.com
+DOMAIN,sp.rmbl.ws
+DOMAIN,trk.bonsa.net
 # NAME: TikTok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com
