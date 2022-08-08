@@ -60,9 +60,3 @@ USER-AGENT,Facebook*
 USER-AGENT,Messenger*
 USER-AGENT,Instagram*
 USER-AGENT,Whatsapp*
-# > Truth Social
-DOMAIN-SUFFIX,truthsocial.com
-USER-AGENT,TRUTHSOCIAL*
-DOMAIN,rumble.com
-DOMAIN,sp.rmbl.ws
-DOMAIN,trk.bonsa.net
