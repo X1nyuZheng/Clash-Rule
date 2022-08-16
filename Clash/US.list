@@ -1,6 +1,14 @@
 DOMAIN-SUFFIX,CWS.CONVIVA.COM
 DOMAIN,sp.auth.adobe.com
 DOMAIN,api.auth.adobe.com
+# MLB
+DOMAIN-SUFFIX,mlb.com
+DOMAIN-SUFFIX,mlbinfra.com
+DOMAIN,us.edge.bamgrid.com
+DOMAIN,mlb.demdex.net
+DOMAIN,www.datadoghq-browser-agent.com
+DOMAIN-SUFFIX,mlbstatic.com
+DOMAIN-SUFFIX,www.mlbshop.com
 # 内容：Twitter
 # 数量：11条
 DOMAIN-KEYWORD,twitter
