@@ -1,6 +1,10 @@
 DOMAIN-SUFFIX,CWS.CONVIVA.COM
 DOMAIN,sp.auth.adobe.com
 DOMAIN,api.auth.adobe.com
+# F1 TV
+DOMAIN,f1prodvod.akamaized.net
+DOMAIN,analytics-ingress-global.bitmovin.com
+DOMAIN-SUFFIX,formula1.com
 # MLB
 DOMAIN-SUFFIX,mlb.com
 DOMAIN-SUFFIX,mlbinfra.com
