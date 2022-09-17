@@ -1,4 +1,5 @@
 # Unbreak 白名单 不应该被广告链接的网站
+DOMAIN,ads-video-al.xhscdn.com
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN,goblin.hupu.com
