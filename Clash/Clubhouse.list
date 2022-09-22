@@ -13,3 +13,7 @@ DOMAIN,clubhouseprod.s3.amazonaws.com
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
+# NFLgamepass
+DOMAIN,vod-i-main-nflusvideo.akamaized.net
+DOMAIN-SUFFIX,nflgamepass.com
+DOMAIN,nflgp-prd.akamaized.net
