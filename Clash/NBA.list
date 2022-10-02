@@ -1,9 +1,9 @@
 # 内容：NBA
-DOMAIN,nbanlds19vod.akamaized.net
-DOMAIN,rest-prod-nba.evergent.com
 # api2.amplitude.com
 # api.usestoryteller.com
 # media.usestoryteller.com
+DOMAIN,nbanlds19vod.akamaized.net
+DOMAIN,rest-prod-nba.evergent.com
 DOMAIN,nba.studio.easelive.tv
 DOMAIN,nbalpng.akamaized.net
 DOMAIN,neuclnbavodns.akamaized.net
