@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,dscb.akamaiedge.net
 DOMAIN,nbaapi.neulion.com.akadns.net
 DOMAIN,qosprod-1470947314.us-west-2.elb.amazonaws.com
 DOMAIN-SUFFIX,neulion.com
+DOMAIN,kinesis.eu-central-1.amazonaws.com
