@@ -23,3 +23,6 @@ DOMAIN,nbaapi.neulion.com.akadns.net
 DOMAIN,qosprod-1470947314.us-west-2.elb.amazonaws.com
 DOMAIN-SUFFIX,neulion.com
 DOMAIN,kinesis.eu-central-1.amazonaws.com
+DOMAIN,nba-cdn.cloud.easelive.tv
+DOMAIN,nba.cloud.easelive.tv
+DOMAIN,d9esmwyn3ffr1.cloudfront.net
