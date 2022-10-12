@@ -15,10 +15,10 @@ DOMAIN-SUFFIX,discoveryplus.co.uk
 DOMAIN-SUFFIX,discoveryplus.com
 DOMAIN-SUFFIX,discoveryplus.in
 DOMAIN-SUFFIX,dnitv.com
-DOMAIN-SUFFIX,fwmrm.net
+#DOMAIN-SUFFIX,fwmrm.net
 DOMAIN-SUFFIX,getblueshift.com
-DOMAIN-SUFFIX,litix.io
-DOMAIN-SUFFIX,mobile-collector.newrelic.com
+#DOMAIN-SUFFIX,litix.io
+#DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-KEYWORD,discovery.uplynk.com
 DOMAIN,dplus-ph-prod-vod.akamaized.net
 USER-AGENT,DPlus*
