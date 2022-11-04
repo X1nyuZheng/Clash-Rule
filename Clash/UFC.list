@@ -1,0 +1,14 @@
+# DAZN
+# ps5.pndsn.com
+# ps14.pndsn.com 1ok961aaca.execute-api.eu-west-1.amazonaws.com
+
+USER-AGENT,UFC*
+DOMAIN,o129937.ingest.sentry.io
+DOMAIN,img.dge-prod.dicelaboratory.com
+DOMAIN,static.diceplatform.com
+DOMAIN,dve-tracks.imggaming.com
+DOMAIN,dve-streams.akamaized.net
+DOMAIN,guide.imggaming.com
+DOMAIN,dve-images.imggaming.com
+DOMAIN,dce-frontoffice.imggaming.com
+DOMAIN,dve-api.imggaming.com
