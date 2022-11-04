@@ -1,11 +1,11 @@
-DOMAIN,mobile-collector.newrelic.com
-# CBS
-DOMAIN,cbsi-cbssportsapp.adsbynimbus.com
 # NBC Sports
 DOMAIN,nbcume.sc.omtrdc.net
 DOMAIN,nbcume.hb-api.omtrdc.net
 DOMAIN,naccess-cloudpath.media.nbcuni.com
 DOMAIN,s1.fwmrm.net
+DOMAIN,mobile-collector.newrelic.com
+# CBS
+DOMAIN,cbsi-cbssportsapp.adsbynimbus.com
 #Google ads
 #DOMAIN-SUFFIX,admob.com
 #DOMAIN-SUFFIX,ads.gmodules.com
