@@ -1,22 +1,9 @@
+# CBS
+DOMAIN,cbsi-cbssportsapp.adsbynimbus.com
 # NBC Sports
 DOMAIN,access-cloudpath.media.nbcuni.com
 DOMAIN,ad.auditude.com
-#DOMAIN,nbcume.sc.omtrdc.net
-#DOMAIN,nbcume.hb-api.omtrdc.net
-#DOMAIN,s1.fwmrm.net
-#DOMAIN,ad.auditude.com
-#DOMAIN,beacon.krxd.net
-#DOMAIN,combine.urbanairship.com
-#DOMAIN,tps.doubleverify.com
-#DOMAIN,usw-ca2.adsrvr.org
-#DOMAIN,insight.adsrvr.org
-#DOMAIN,match.adsrvr.org
-#DOMAIN,z.moatads.com
-#DOMAIN,px.moatads.com
-#DOMAIN,geo.moatads.com
 DOMAIN,mobile-collector.newrelic.com
-# CBS
-DOMAIN,cbsi-cbssportsapp.adsbynimbus.com
 #Google ads
 #DOMAIN-SUFFIX,admob.com
 #DOMAIN-SUFFIX,ads.gmodules.com
