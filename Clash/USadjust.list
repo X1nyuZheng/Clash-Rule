@@ -10,9 +10,9 @@ DOMAIN,tps.doubleverify.com
 DOMAIN,usw-ca2.adsrvr.org
 DOMAIN,insight.adsrvr.org
 DOMAIN,match.adsrvr.org
-#DOMAIN,z.moatads.com
-#DOMAIN,px.moatads.com
-#DOMAIN,geo.moatads.com
+DOMAIN,z.moatads.com
+DOMAIN,px.moatads.com
+DOMAIN,geo.moatads.com
 DOMAIN,mobile-collector.newrelic.com
 # CBS
 DOMAIN,cbsi-cbssportsapp.adsbynimbus.com
