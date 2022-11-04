@@ -165,6 +165,7 @@ DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,theplatform.com
 #NBC Sports
 DOMAIN-SUFFIX,nbcsports.com
+DOMAIN,nbcu.demdex.net
 DOMAIN,hdliveextra-a.akamaihd.net
 DOMAIN,api.auth.adobe.com
 DOMAIN,olympicchannel.akamaized.net
