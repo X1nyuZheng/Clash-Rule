@@ -22,6 +22,6 @@ DOMAIN,webproxy-advp.iad-apple.com.akadns.net
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,ntb.lanjie100.com
 # Others
-IP-CIDR, 203.107.1.1/24
+IP-CIDR,203.107.1.1/24
 DOMAIN,kad.gotokeep.com
 DOMAIN,apm.gotokeep.com
