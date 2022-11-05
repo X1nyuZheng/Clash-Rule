@@ -3,6 +3,8 @@ DOMAIN,cbsi-cbssportsapp.adsbynimbus.com
 # NBC Sports
 DOMAIN,access-cloudpath.media.nbcuni.com
 DOMAIN,ad.auditude.com
+DOMAIN,nbcume.hb-api.omtrdc.net
+DOMAIN-SUFFIX,cws.conviva.com
 DOMAIN,mobile-collector.newrelic.com
 #Google ads
 #DOMAIN-SUFFIX,admob.com
