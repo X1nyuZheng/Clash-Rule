@@ -1,6 +1,9 @@
 # Unbreak 白名单 不应该被广告链接的网站
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN-SUFFIX,aiseet.atianqi.com
+# Bilibili
+DOMAIN,cm.bilibili.com
+DOMAIN-SUFFIX,bugly.qq.com
 # Hupu
 DOMAIN,fms.ipinyou.com
 # Epicgames
