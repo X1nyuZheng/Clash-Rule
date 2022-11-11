@@ -20,3 +20,31 @@ USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,uplynk.com
+DOMAIN,foxvideo.akamaized.net
+#NBC Sports
+DOMAIN-SUFFIX,nbcsports.com
+DOMAIN,nbcu.demdex.net
+DOMAIN,hdliveextra-a.akamaihd.net
+DOMAIN,api.auth.adobe.com
+DOMAIN,olympicchannel.akamaized.net
+DOMAIN,sprtsecureassets.akamaized.net
+DOMAIN-SUFFIX,nbcolympics.com
+DOMAIN,streams.adobeprimetime.com
+DOMAIN-SUFFIX,moatads.com
+DOMAIN,nbcuvideo.s.moatpixel.com
+DOMAIN,tvecsnbayarea.akamaized.net
+DOMAIN,tvecsncalifornia.akamaized.net
+DOMAIN,a1303.dscw16.akamai.net
+DOMAIN,hdliveextra-a.akamaihd.net
+DOMAIN,sprtlive2.akamaized.net
+DOMAIN,sprtlive14.akamaized.net
+DOMAIN-SUFFIX,nbc.co
+DOMAIN-SUFFIX,nbc.com
+DOMAIN,tveono-x.akamaized.net
+IP-CIDR,23.13.187.124/32
+# 内容：ABC
+# 数量：2条
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,abc.com
+DOMAIN,x-disney-datg-stgec.uplynk.com
