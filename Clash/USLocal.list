@@ -60,5 +60,6 @@ DOMAIN,mobile-collector.newrelic.com
 # >StarZ
 DOMAIN-SUFFIX,starz.com
 # >AMC+
-# DOMAIN,amcplus-a.akamaized.net
-# DOMAIN-SUFFIX,amcn.com
+DOMAIN,amcplus-a.akamaized.net
+DOMAIN-SUFFIX,amcn.com
+DOMAIN,infinity-c9.youboranqs01.com
