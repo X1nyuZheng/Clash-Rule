@@ -57,3 +57,8 @@ DOMAIN,ws-cloudpath.media.nbcuni.com
 #DOMAIN,nbcume.hb-api.omtrdc.net
 #DOMAIN-SUFFIX,cws.conviva.com
 DOMAIN,mobile-collector.newrelic.com
+# >StarZ
+DOMAIN-SUFFIX,starz.com
+# >AMC+
+# DOMAIN,amcplus-a.akamaized.net
+# DOMAIN-SUFFIX,amcn.com
