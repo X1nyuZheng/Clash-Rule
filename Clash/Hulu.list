@@ -15,3 +15,8 @@ DOMAIN,download.maxmind.com
 DOMAIN-SUFFIX,hulu.map.fastly.net
 DOMAIN-SUFFIX,hulu.com.akadns.net
 DOMAIN,live-mediashield-hulustream-com.akamaized.net
+# FoxNow
+USER-AGENT,FOX%20NOW*
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,uplynk.com
