@@ -40,7 +40,7 @@ DOMAIN,sprtlive2.akamaized.net
 DOMAIN,sprtlive14.akamaized.net
 DOMAIN-SUFFIX,nbc.co
 DOMAIN-SUFFIX,nbc.com
-DOMAIN,tveono-x.akamaized.net
+DOMAIN,tvenbcono-x.akamaized.net
 IP-CIDR,23.13.187.124/32
 # 内容：ABC
 # 数量：2条
@@ -48,3 +48,12 @@ DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN,x-disney-datg-stgec.uplynk.com
+# CBS
+DOMAIN,cbsi-cbssportsapp.adsbynimbus.com
+# NBC Sports
+DOMAIN,access-cloudpath.media.nbcuni.com
+DOMAIN,ad.auditude.com
+DOMAIN,ws-cloudpath.media.nbcuni.com
+#DOMAIN,nbcume.hb-api.omtrdc.net
+#DOMAIN-SUFFIX,cws.conviva.com
+DOMAIN,mobile-collector.newrelic.com
