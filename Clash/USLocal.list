@@ -1,20 +1,3 @@
-# 内容：Hulu
-# 数量：7条
-DOMAIN-SUFFIX,cws-hulu.conviva.com
-DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,hulu.hb.omtrdc.net
-DOMAIN-SUFFIX,hulu.sc.omtrdc.net
-DOMAIN-SUFFIX,huluad.com
-DOMAIN-SUFFIX,huluim.com
-DOMAIN-SUFFIX,hulustream.com
-DOMAIN,san.dual-hulu.com.edgekey.net
-DOMAIN-KEYWORD,hulu
-DOMAIN-SUFFIX,hulu.com.akadns.net
-DOMAIN-SUFFIX,dscz.akamai.net
-DOMAIN,download.maxmind.com
-DOMAIN-SUFFIX,hulu.map.fastly.net
-DOMAIN-SUFFIX,hulu.com.akadns.net
-DOMAIN,live-mediashield-hulustream-com.akamaized.net
 # FoxNow
 USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com
@@ -57,9 +40,3 @@ DOMAIN,ws-cloudpath.media.nbcuni.com
 #DOMAIN,nbcume.hb-api.omtrdc.net
 #DOMAIN-SUFFIX,cws.conviva.com
 DOMAIN,mobile-collector.newrelic.com
-# >StarZ
-DOMAIN-SUFFIX,starz.com
-# >AMC+
-DOMAIN,amcplus-a.akamaized.net
-DOMAIN-SUFFIX,amcn.com
-DOMAIN,infinity-c9.youboranqs01.com
