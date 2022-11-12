@@ -1,13 +1,3 @@
-# UFC
-DOMAIN,o129937.ingest.sentry.io
-DOMAIN,img.dge-prod.dicelaboratory.com
-DOMAIN,static.diceplatform.com
-DOMAIN,dve-tracks.imggaming.com
-DOMAIN,dve-streams.akamaized.net
-DOMAIN,guide.imggaming.com
-DOMAIN,dve-images.imggaming.com
-DOMAIN,dce-frontoffice.imggaming.com
-DOMAIN,dve-api.imggaming.com
 # 内容：Bahamut
 # 数量：6条
 USER-AGENT,Anime*
