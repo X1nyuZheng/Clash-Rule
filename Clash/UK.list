@@ -1,6 +1,13 @@
+#Now
+DOMAIN-SUFFIX,sky.com
+DOMAIN-SUFFIX,nowtv.com
+DOMAIN-SUFFIX,skycdp.com
+DOMAIN-SUFFIX,skyanywhere,com
+DOMAIN-SUFFIX,trkcliq.com
+DOMAIN-SUFFIX,nowtv.skyadsmart.com
 #BT Sports
 DOMAIN-SUFFIX,bt.com
-DOMAIN-SUFFIX,UK
+DOMAIN-SUFFIX,co.uk
 DOMAIN-SUFFIX,asnapieu.com
 # Matchroom
 DOMAIN-SUFFIX,matchroom.live
