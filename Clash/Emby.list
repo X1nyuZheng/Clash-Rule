@@ -1,6 +1,6 @@
 # > Emby
 DOMAIN,emby.riches.cloud
 DOMAIN-SUFFIX,emby.wtf
-dOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,jmsooo.com
 IP-CIDR,198.204.247.154/32
 DOMAIN-KEYWORD,emby
