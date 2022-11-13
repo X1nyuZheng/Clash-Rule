@@ -21,4 +21,4 @@ DOMAIN-SUFFIX,api.vc.bilibili.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 HOST-SUFFIX,hdslb.com
-USER-AGENT,Bilibili*
+USER-AGENT,bilibili*
