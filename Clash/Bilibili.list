@@ -19,4 +19,5 @@ DOMAIN-SUFFIX,smtcdns.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,api.vc.bilibili.com
 DOMAIN-SUFFIX,bilibili.com
-HOST-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,hdslb.com
+USER-AGENT,bilibili*
