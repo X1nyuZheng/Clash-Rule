@@ -1,6 +1,7 @@
 # Unbreak 白名单 不应该被广告链接的网站
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN-SUFFIX,aiseet.atianqi.com
+DOMAIN,dpm.demdex.net
 # Bilibili
 DOMAIN,cm.bilibili.com
 DOMAIN-SUFFIX,bugly.qq.com
