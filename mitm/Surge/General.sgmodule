@@ -1,16 +1,5 @@
 #!name=General通用设置
 #!desc=DNS优化&知乎去广告
-[General]
-# DNS设置或根据自己网络情况进行相应设置
-bypass-tun = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12
-dns-server = 119.29.29.29, 223.5.5.5, 114.114.114.114
-ipv6 = false
-ipv6-vif = disabled
-allow-wifi-access = true
-allow-hotspot-access = true
-include-all-networks = false
-proxy-test-url = http://www.gstatic.com/generate_204
-internet-test-url = http://www.gstatic.com/generate_204
 [Rule]
 # 知乎去广告
 IP-CIDR,118.89.204.198/32,REJECT-DROP,no-resolve
