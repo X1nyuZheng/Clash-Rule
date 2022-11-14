@@ -8,7 +8,6 @@ DOMAIN,foxvideo.akamaized.net
 DOMAIN-SUFFIX,nbcsports.com
 DOMAIN,nbcu.demdex.net
 DOMAIN,hdliveextra-a.akamaihd.net
-DOMAIN,api.auth.adobe.com
 DOMAIN,olympicchannel.akamaized.net
 DOMAIN,sprtsecureassets.akamaized.net
 DOMAIN-SUFFIX,nbcolympics.com
@@ -31,12 +30,9 @@ DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN,x-disney-datg-stgec.uplynk.com
-# CBS
-DOMAIN,cbsi-cbssportsapp.adsbynimbus.com
 # NBC Sports
 DOMAIN,access-cloudpath.media.nbcuni.com
 DOMAIN,ad.auditude.com
 DOMAIN,ws-cloudpath.media.nbcuni.com
 #DOMAIN,nbcume.hb-api.omtrdc.net
 #DOMAIN-SUFFIX,cws.conviva.com
-DOMAIN,mobile-collector.newrelic.com
