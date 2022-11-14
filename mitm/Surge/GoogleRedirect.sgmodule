@@ -13,4 +13,4 @@
 ^https?:\/\/(www.)?(g|google)\.co.uk https://www.google.com 302
 
 [MITM]
-hostname = ditu.google.ca,google.ca,map.google.ca,www.google.ca,ditu.google.co.uk,google.co.uk,map.google.co.uk,www.google.co.uk
+hostname = %APPEND% ditu.google.ca,google.ca,map.google.ca,www.google.ca,ditu.google.co.uk,google.co.uk,map.google.co.uk,www.google.co.uk
