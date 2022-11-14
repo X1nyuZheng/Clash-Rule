@@ -1,4 +1,4 @@
-#!name=通用设置
+#!name=General通用设置
 #!desc=DNS优化&知乎去广告
 [General]
 # DNS设置或根据自己网络情况进行相应设置
