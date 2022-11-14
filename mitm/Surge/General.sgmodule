@@ -1,5 +1,5 @@
-#!name=General通用设置
-#!desc=DNS优化&知乎去广告
+#!name=知乎去广告+
+#!desc=知乎去广告+
 [Rule]
 # 知乎去广告
 IP-CIDR,118.89.204.198/32,REJECT-DROP,no-resolve
