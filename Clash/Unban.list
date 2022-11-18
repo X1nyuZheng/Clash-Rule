@@ -10,7 +10,7 @@ DOMAIN,fms.ipinyou.com
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN,goblin.hupu.com
-DOMAIN-SUFFIX,pangolin.snssdk.com
+#DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN,fengkongcloud.com
 #DOMAIN-SUFFIX,ulogs.umeng.com
 #DOMAIN-SUFFIX,getui.com
