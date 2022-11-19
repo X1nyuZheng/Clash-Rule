@@ -10,16 +10,6 @@
 [Script]
 http-response ^http.+(media.(dss|star)ott|manifests.v2.api.hbo|hbomaxcdn|nflxvideo|cbs(aa|i)video|cloudfront|akamaihd|avi-cdn|huluim|youtube).(com|net)\/(.+\.vtt($|\?m=\d+)|.+-all-.+\.m3u8.*|hls\.m3u8.+|\?o=\d+&v=\d+&e=.+|\w+\/2\$.+\/[a-zA-Z0-9-]+\.m3u8|api\/timedtext.+) script-path= https://raw.githubusercontent.com/Neurogram-R/Surge/master/Dualsub.js, requires-body=true, timeout=10, tag=Dualsub
 http-request ^http.+(setting|general).(media.dssott|hbomaxcdn|nflxvideo|youtube|cbsivideo|cloudfront|huluim).(com|net)\/\?action=(g|s)et script-path= https://raw.githubusercontent.com/Neurogram-R/Surge/master/Dualsub.js, requires-body=true, timeout=10, tag=Dualsub
-# Now
-http-response http:\/\/.+cdn.skycdp.com\/.+\.webvtt requires-body=1, max-size=0, timeout=30, script-path=https://raw.githubusercontent.com/Neurogram-R/Surge/master/Dualsub.js, tag=Now
-http-response http:\/\/.+cdn.skycdp.com\/.+\.vtt requires-body=1, max-size=0, timeout=30, script-path=https://raw.githubusercontent.com/Neurogram-R/Surge/master/Dualsub.js, tag=Now
-# All4
-http-response http:\/\/.+channel4.com\/.+\.webvtt requires-body=1, max-size=0, timeout=30, script-path=https://raw.githubusercontent.com/Neurogram-R/Surge/master/Dualsub.js, tag=All4
-# My 5
-http-response https:\/\/.+akamaized.net\/.+\.vtt requires-body=1, max-size=0, timeout=30, script-path=https://raw.githubusercontent.com/Neurogram-R/Surge/master/Dualsub.js, tag=My5
-# Stan
-http-response https:\/\/.+stan.com.au\/.+\.vtt requires-body=1, max-size=0, timeout=30, script-path=https://raw.githubusercontent.com/Neurogram-R/Surge/master/Dualsub.js, tag=Stan
-#pluto tv
-http-response https:\/\/.+pluto.tv\/.+\.vtt requires-body=1, max-size=0, timeout=30, script-path=https://raw.githubusercontent.com/Neurogram-R/Surge/master/Dualsub.js, tag=Pluto TV
+
 [MITM]
-hostname = *.media.dssott.com, *.media.starott.com, *.api.hbo.com, *.hbomaxcdn.com, *.huluim.com, *.nflxvideo.net, *.cbsaavideo.com, *.cbsivideo.com, *.cloudfront.net, *.akamaihd.net, *.avi-cdn.net, *.youtube.com, *.cdn.skycdp.com, *.channel4.com, *.akamaized.net, *.stan.com.au, *.pluto.tv
+hostname = *.media.dssott.com, *.media.starott.com, *.api.hbo.com, *.hbomaxcdn.com, *.huluim.com, *.nflxvideo.net, *.cbsaavideo.com, *.cbsivideo.com, *.cloudfront.net, *.akamaihd.net, *.avi-cdn.net, *.youtube.com
