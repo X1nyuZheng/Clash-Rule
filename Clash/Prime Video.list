@@ -14,8 +14,19 @@ DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
-# DOMAIN,www.amazon.com
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,amazonprimevideos.com
+DOMAIN-SUFFIX,amazonvideo.cc
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,primevideo.cc
+DOMAIN-SUFFIX,primevideo.info
+DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-KEYWORD,avoddashs
+DOMAIN-KEYWORD,avodhlss
+PROCESS-NAME,com.amazon.avod.thirdpartyclient
+# DOMAIN,www.amazon.com
 DOMAIN,a16avodhlss3ww-a.akamaihd.net
 DOMAIN,aivottevtad-a.akamaihd.net
 DOMAIN,aivottlinear-a.akamaihd.net
