@@ -2,6 +2,12 @@
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN-SUFFIX,aiseet.atianqi.com
 DOMAIN,dpm.demdex.net
+# qq
+DOMAIN,mtrace.qq.com
+DOMAIN,ipv4.gdt.qq.com
+DOMAIN,lives.l.qq.com
+DOMAIN,oth.eve.mdt.qq.com
+DOMAIN,wns.ilive.qq.com
 # Bilibili
 DOMAIN,cm.bilibili.com
 DOMAIN-SUFFIX,bugly.qq.com
