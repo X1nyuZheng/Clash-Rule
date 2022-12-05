@@ -20,3 +20,6 @@ DOMAIN,vod-i-main-nflusvideo.akamaized.net
 DOMAIN-SUFFIX,nflgamepass.com
 DOMAIN,nflgp-prd.akamaized.net
 DOMAIN,cf-blast.livelikecdn.com
+#LNB TV
+DOMAIN,spottvod.akamaized.net
+DOMAIN-SUFFIX,lnb.tv
