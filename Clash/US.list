@@ -44,26 +44,6 @@ USER-AGENT,TRUTHSOCIAL*
 DOMAIN,rumble.com
 DOMAIN,sp.rmbl.ws
 DOMAIN,trk.bonsa.net
-# NAME: TikTok
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,sgpstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-KEYWORD,-tiktokcdn-com
-DOMAIN-KEYWORD,musical.ly
-DOMAIN-KEYWORD,tiktok
-DOMAIN-KEYWORD,tiktokcdn-
-DOMAIN-KEYWORD,tiktokv
-USER-AGENT,TikTok*
 #>MotoGP
 DOMAIN-SUFFIX,motogp.com
 DOMAIN-SUFFIX,dorna.com
@@ -168,3 +148,23 @@ DOMAIN-SUFFIX,theplatform.com
 # AMC+
 DOMAIN,infinity-c15.youboranqs01.com
 DOMAIN-SUFFIX,amcn.com
+# NAME: TikTok
+# DOMAIN,p16-tiktokcdn-com.akamaized.net
+# DOMAIN-SUFFIX,byteoversea.com
+# DOMAIN-SUFFIX,ibytedtos.com
+# DOMAIN-SUFFIX,ibyteimg.com
+# DOMAIN-SUFFIX,ipstatp.com
+# DOMAIN-SUFFIX,muscdn.com
+# DOMAIN-SUFFIX,musical.ly
+# DOMAIN-SUFFIX,sgpstatp.com
+# DOMAIN-SUFFIX,snssdk.com
+# DOMAIN-SUFFIX,tik-tokapi.com
+# DOMAIN-SUFFIX,tiktok.com
+# DOMAIN-SUFFIX,tiktokcdn.com
+# DOMAIN-SUFFIX,tiktokv.com
+# DOMAIN-KEYWORD,-tiktokcdn-com
+# DOMAIN-KEYWORD,musical.ly
+# DOMAIN-KEYWORD,tiktok
+# DOMAIN-KEYWORD,tiktokcdn-
+# DOMAIN-KEYWORD,tiktokv
+# USER-AGENT,TikTok*
