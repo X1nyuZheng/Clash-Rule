@@ -1,0 +1,17 @@
+#SUBSCRIBED https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride
+name: Craft
+desc: Craft解锁会员
+
+http:
+  mitm:
+    - "api.craft.do"
+  script:
+    - match: ^https:\/\/api\.craft\.do\/auth\/v2\/profile
+      name: Craft
+      type: response
+      require-body: true
+      timeout: 10
+script-providers:
+  Craft:
+    url: https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Craft.js
+    interval: 86400
