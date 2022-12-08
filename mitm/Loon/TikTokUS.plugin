@@ -5,19 +5,6 @@
 #!homepage=https://github.com/Semporia/TikTok-Unlock
 #!icon= https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png
 
-[Rule]
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-KEYWORD,-tiktokcdn-com
-USER-AGENT,tiktok*
-
 [URL Rewrite]
 (?<=_region=)CN(?=&) US 307
 (?<=&mcc_mnc=)4 2 307
@@ -25,6 +12,5 @@ USER-AGENT,tiktok*
 (?<=\d\/\?\w{7}_\w{4}=)1[6-9]..(?=.?.?&) 18.4 307
 
 [MITM]
-
 
 hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
