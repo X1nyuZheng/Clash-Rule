@@ -1,15 +1,9 @@
 #!name=广告重写
 #!desc=广告重写 本地
 [MITM] 
-hostname = news.ssp.qq.com, r.inews.qq.com, mi.gdt.qq.com, ssl.kohsocialapp.qq.com, 4gimg.map.qq.com, mp.weixin.qq.com, static.gameplus.qq.com, tc.qq.com, btrace.qq.com, otheve.beacon.qq.com, us.l.qq.com, news.l.qq.com,  webcdn.m.qq.com, ossweb-img.qq.com, y.gtimg.cn,sports3.gtimg.com,*.hoopchina.com,goblin.hupu.com
+hostname = news.ssp.qq.com, r.inews.qq.com, mi.gdt.qq.com, ssl.kohsocialapp.qq.com, 4gimg.map.qq.com, mp.weixin.qq.com, static.gameplus.qq.com, tc.qq.com, btrace.qq.com, otheve.beacon.qq.com, us.l.qq.com, news.l.qq.com,  webcdn.m.qq.com, ossweb-img.qq.com, y.gtimg.cn,sports3.gtimg.com
 
 [URL Rewrite]
-# > hupu@ddgksf2013
-^https?:\/\/i\d\.hoopchina\.com\.cn/blogfile\//d+\//d+\/BbsImg\.(?<=(big.(png|jpg)))$ - reject-img
-^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(search|interfaceAdMonitor|status|hupuBbsPm)/(hotkey|init|hupuBbsPm)\. - reject-img
-^https?:\/\/games\.mobileapi\.hupu\.com\/interfaceAdMonitor - reject-img
-^https?:\/\/goblin\.hupu\.com\/.+\/interfaceAd\/getOther - reject
-^https?:\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4} - reject-img
 # > 腾讯视频
 ^https://news.l.qq.com\/app\? - reject
 ^https?:\/\/btrace.qq.com - reject-200
