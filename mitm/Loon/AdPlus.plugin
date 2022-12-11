@@ -6,7 +6,7 @@
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
 
 [MITM] 
-hostname = news.ssp.qq.com, r.inews.qq.com, mi.gdt.qq.com, ssl.kohsocialapp.qq.com, 4gimg.map.qq.com, mp.weixin.qq.com, static.gameplus.qq.com, tc.qq.com, btrace.qq.com, otheve.beacon.qq.com, us.l.qq.com, news.l.qq.com,  webcdn.m.qq.com, ossweb-img.qq.com, y.gtimg.cn,sports3.gtimg.com
+hostname = vv.video.qq.com, news.ssp.qq.com, r.inews.qq.com, mi.gdt.qq.com, ssl.kohsocialapp.qq.com, 4gimg.map.qq.com, mp.weixin.qq.com, static.gameplus.qq.com, tc.qq.com, btrace.qq.com, otheve.beacon.qq.com, us.l.qq.com, news.l.qq.com,  webcdn.m.qq.com, ossweb-img.qq.com, y.gtimg.cn,sports3.gtimg.com
 
 [URL Rewrite]
 # > 腾讯视频
