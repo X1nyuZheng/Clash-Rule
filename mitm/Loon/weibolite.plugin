@@ -11,8 +11,6 @@
 ^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/ad\/weibointl\? reject-dict
 # > 微博国际版_屏蔽search_suggest@ddgksf2013
 # ^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/page\/get_search_suggest reject-dict
-# > 微博国际版_屏蔽开屏广告@ddgksf2013 
-^https?:\/\/weibointl\.api\.weibo\.c(n|om)\/portal\.php.*ads reject-dict
 
 [Script]
 
@@ -30,6 +28,8 @@ http-response ^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/video/(community_tab|remind
 http-response ^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/search/(finder|container_timeline|container_discover) script-path=https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js, requires-body=true, timeout=10, tag=weibo_json
 http-response ^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/(checkin/show|\!/live/media_homelist|comments/build_comments|container/get_item) script-path=https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js, requires-body=true, timeout=10, tag=weibo_json
 http-response ^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/cardlist script-path=https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js, requires-body=true, timeout=10, tag=weibo_json
+# > 微博国际版_屏蔽开屏广告@ddgksf2013 
+http-response ^https?:\/\/weibointl\.api\.weibo\.c(n|om)\/portal\.php.*get_coopen_ads script-path=https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js, requires-body=true, timeout=10, tag=weibo_json
 # > 微博&国际版_sdkad@ddgksf2013
 http-response ^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua) script-path=https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js, requires-body=true, timeout=10, tag=weibo_json
 # > 微博国际版_趋势顶部CARD去广告@ddgksf2013
