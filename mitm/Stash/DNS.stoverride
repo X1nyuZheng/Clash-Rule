@@ -1,17 +1,28 @@
-#SUBSCRIBED https://raw.githubusercontent.com/X1nyuZheng/Clash-Rule/master/mitm/Stash/CRAFT.stoverride
-name: Craft
-desc: Craft解锁会员
+#SUBSCRIBED https://github.com/X1nyuZheng/Clash-Rule/raw/master/mitm/Stash/DNS.stoverride
+name: DNS🌐
+desc: 使用腾讯与阿里DNS
 
-http:
-  mitm:
-    - "api.craft.do"
-  script:
-    - match: ^https:\/\/api\.craft\.do\/auth\/v2\/profile
-      name: Craft
-      type: response
-      require-body: true
-      timeout: 10
-script-providers:
-  Craft:
-    url: https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Craft.js
-    interval: 86400
+dns:
+  enable: true
+  ipv6: true
+  listen: 0.0.0.0:53
+  default-nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+    - 114.114.114.114
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - '*.lan'
+    - localhost.ptlogin2.qq.com
+    - '+.srv.nintendo.net'
+    - '+.stun.playstation.net'
+    - '+.msftconnecttest.com'
+    - '+.msftncsi.com'
+    - '+.xboxlive.com'
+    - 'msftconnecttest.com'
+    - 'xbox.*.microsoft.com'
+    - '*.battlenet.com.cn'
+    - '*.battlenet.com'
+    - '*.blzstatic.cn'
+    - '*.battle.net'
