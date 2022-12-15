@@ -1,4 +1,4 @@
-#SUBSCRIBED https://github.com/X1nyuZheng/Clash-Rule/raw/master/mitm/Stash/DNS.stoverride
+#SUBSCRIBED https://github.com/X1nyuZheng/Clash-Rule/raw/master/mitm/Stash/dns.stoverride
 name: DNS🌐
 desc: 使用腾讯与阿里DNS
 
