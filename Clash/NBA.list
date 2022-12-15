@@ -23,7 +23,7 @@
 # DOMAIN,nba-cdn.cloud.easelive.tv
 # DOMAIN,nba.cloud.easelive.tv
 # DOMAIN,d9esmwyn3ffr1.cloudfront.net
-# > NBA India
+# > NBA
 DOMAIN-SUFFIX,lion-nba-msl.akamaized.net
 DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,neulion-a.akamaihd.net
@@ -40,4 +40,5 @@ DOMAIN-SUFFIX,neulion.com
 DOMAIN-SUFFIX,nbanlds19vod.akamaized.net
 DOMAIN-SUFFIX,neuclnbavodns.akamaized.net
 DOMAIN-SUFFIX,nba.cloud.easelive.tv
+DOMAIN,rest-prod-nba.evergent.com
 DOMAIN,nbalpng.akamaihd.net
