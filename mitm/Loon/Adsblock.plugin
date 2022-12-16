@@ -2,7 +2,7 @@
 #!desc=Loon去开屏广告计划
 #!openUrl=https://github.com/X1nyuZheng/Clash-Rule
 #!author=X1nyuZheng
-#!homepage=https://github.com/X1nyuZheng/Clash-Rule/tree/master/mitm/Loon
+#!homepage= https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/StartUp.conf
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
 # 修改于 墨鱼https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/StartUp.conf
 # hostname不变，筛选出url reject，Rewrite把url reject替换为reject，筛选出 url script-response-body ，替换为, script-path=，再添加http-request  requires-body=1, max-size=0, tag=Adblock 1要素
