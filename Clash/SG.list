@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,ttlstatic.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
+# Mubi
+DOMAIN-SUFFIX,mubi.com
+DOMAIN-SUFFIX,mubicdn.net
