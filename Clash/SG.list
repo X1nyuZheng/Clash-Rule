@@ -19,9 +19,6 @@ DOMAIN-SUFFIX,ttlstatic.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
-# Mubi
-DOMAIN-SUFFIX,mubi.com
-DOMAIN-SUFFIX,mubicdn.net
 # Clubhouse
 IP-CIDR,107.155.5.0/24
 IP-CIDR,128.1.193.0/24
