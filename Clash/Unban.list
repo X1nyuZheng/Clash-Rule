@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,dizhensubao.getui.com
 # Emby
 DOMAIN,cc.ccemby.tk
 DOMAIN-SUFFIX,ccemby.ga
+DOMAIN,emby-pub1.blueseacdn.com
 # Google
 DOMAIN,dl.google.com
 DOMAIN-SUFFIX,googletraveladservices.com
