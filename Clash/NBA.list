@@ -41,4 +41,4 @@ DOMAIN-SUFFIX,nbanlds19vod.akamaized.net
 DOMAIN-SUFFIX,neuclnbavodns.akamaized.net
 DOMAIN-SUFFIX,nba.cloud.easelive.tv
 DOMAIN,rest-prod-nba.evergent.com
-DOMAIN,nbalpng.akamaihd.net
+#DOMAIN,nbalpng.akamaihd.net
