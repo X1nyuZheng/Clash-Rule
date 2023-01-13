@@ -1,5 +1,6 @@
 # Unbreak 白名单 不应该被广告链接的网站
 DOMAIN,ads-video-al.xhscdn.com
+DOMAIN-SUFFIX,p2p.huya.com
 DOMAIN-SUFFIX,aiseet.atianqi.com
 DOMAIN,dpm.demdex.net
 DOMAIN,get.sogou.com
