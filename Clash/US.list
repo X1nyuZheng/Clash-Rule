@@ -37,7 +37,7 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
 # Star+
-DOMAIN-SUFFIX,media.starott.com
+#DOMAIN-SUFFIX,media.starott.com
 # > Truth Social
 DOMAIN-SUFFIX,truthsocial.com
 USER-AGENT,TRUTHSOCIAL*
