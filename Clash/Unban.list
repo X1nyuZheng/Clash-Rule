@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,aiseet.atianqi.com
 DOMAIN,dpm.demdex.net
 DOMAIN,get.sogou.com
 DOMAIN,ad.12306.cn
+#weTV
+DOMAIN,ltsaws.wetvinfo.com
 # Bilibili
 DOMAIN,cm.bilibili.com
 DOMAIN-SUFFIX,bugly.qq.com
