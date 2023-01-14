@@ -1,6 +1,8 @@
 #WETV
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN,vibeacon.onezapp.com
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN,pitaya-task-sg.byteintlapi.com
 # tiktok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,tiktokcdn-us.com
