@@ -36,3 +36,16 @@ DOMAIN,ad.auditude.com
 DOMAIN,ws-cloudpath.media.nbcuni.com
 #DOMAIN,nbcume.hb-api.omtrdc.net
 #DOMAIN-SUFFIX,cws.conviva.com
+# > Paramount+
+PROCESS-NAME,com.cbs.app
+DOMAIN,cbs.penthera.com
+DOMAIN-SUFFIX,play.cbsi.video
+DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,link.theplatform.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
