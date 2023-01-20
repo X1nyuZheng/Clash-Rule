@@ -132,19 +132,8 @@ DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
 # > Paramount+
-PROCESS-NAME,com.cbs.app
-DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbsivideo.com
-DOMAIN-SUFFIX,paramountplus.com
-DOMAIN-SUFFIX,pplusstatic.com
-DOMAIN,cbsi.live.ott.irdeto.com
-DOMAIN,cbsplaylistserver.aws.syncbak.com
-DOMAIN,cbsservice.aws.syncbak.com
-DOMAIN,cbs.penthera.com
-DOMAIN-SUFFIX,play.cbsi.video
-DOMAIN-SUFFIX,cbsnews.com
-DOMAIN-SUFFIX,theplatform.com
 # AMC+
 DOMAIN,infinity-c15.youboranqs01.com
 DOMAIN-SUFFIX,amcn.com
