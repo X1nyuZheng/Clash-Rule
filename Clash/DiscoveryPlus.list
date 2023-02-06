@@ -8,6 +8,8 @@
 # USER-AGENT: 2
 # TOTAL: 15
 DOMAIN,x-default-stgec.uplynk.com
+DOMAIN,dplus-ph-google-v2.prod-vod.h264.io
+DOMAIN,discovery-ap.conax.cloud
 DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discovery.com
