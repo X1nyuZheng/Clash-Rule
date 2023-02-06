@@ -1,6 +1,9 @@
 DOMAIN-SUFFIX,CWS.CONVIVA.COM
 DOMAIN,sp.auth.adobe.com
 DOMAIN,api.auth.adobe.com
+# Discovery
+DOMAIN,dplus-ph-prod-vod.akamaized.net
+DOMAIN,dplus-ph-google-v2.prod-vod.h264.io
 # UFC
 DOMAIN,o129937.ingest.sentry.io
 DOMAIN,img.dge-prod.dicelaboratory.com
