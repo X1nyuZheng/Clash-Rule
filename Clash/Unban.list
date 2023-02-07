@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,aiseet.atianqi.com
 DOMAIN,dpm.demdex.net
 DOMAIN,get.sogou.com
 DOMAIN,ad.12306.cn
+# 百度输入法
+DOMAIN,udpolimenew.baidu.com
 #Send Anywhere
 DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,send-anywhere.com
