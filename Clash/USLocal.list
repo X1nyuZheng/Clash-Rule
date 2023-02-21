@@ -1,3 +1,6 @@
+#1password
+DOMAIN-SUFFIX,1password.com
+DOMAIN-KEYWORD,1password
 # FoxNow
 USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com
@@ -34,8 +37,6 @@ DOMAIN,x-disney-datg-stgec.uplynk.com
 DOMAIN,access-cloudpath.media.nbcuni.com
 DOMAIN,ad.auditude.com
 DOMAIN,ws-cloudpath.media.nbcuni.com
-#DOMAIN,nbcume.hb-api.omtrdc.net
-#DOMAIN-SUFFIX,cws.conviva.com
 # > Paramount+
 PROCESS-NAME,com.cbs.app
 DOMAIN,cbs.penthera.com
