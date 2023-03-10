@@ -1,4 +1,8 @@
 DOMAIN-SUFFIX,bing.com
+#Ads
+DOMAIN-SUFFIX,doubleclick.ctfile.com
+DOMAIN-SUFFIX,doubleclick.com
+DOMAIN-SUFFIX,doubleclick.net
 # Twitter
 DOMAIN,analytics.twitter.com
 # CBS
