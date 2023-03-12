@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,bing.com
-#Ads
+# FlowerCloud Emby
+DOMAIN,emby.flowercloud.yt
+# Ads
 DOMAIN-SUFFIX,doubleclick.ctfile.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.net
