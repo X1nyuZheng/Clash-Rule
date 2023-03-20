@@ -1,11 +1,6 @@
 DOMAIN-SUFFIX,bing.com
 # FlowerCloud Emby
 DOMAIN,emby.flowercloud.yt
-# Ads
-DOMAIN-SUFFIX,doubleclick.ctfile.com
-DOMAIN-SUFFIX,doubleclick.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,qflm.net
 # Twitter
 DOMAIN,analytics.twitter.com
 # CBS
