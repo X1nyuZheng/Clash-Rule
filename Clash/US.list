@@ -68,13 +68,7 @@ PROCESS-NAME,com.peacocktv.peacockandroid
 DOMAIN-SUFFIX,peacocktv.com
 # 内容：HBO
 # 数量：7条
-USER-AGENT,HBO%20NOW*
-USER-AGENT,HBOMAX*
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
-DOMAIN-SUFFIX,hbonow.com
+DOMAIN,cmaf.cf.latam.hbomaxcdn.com
 # 内容：Hulu
 # 数量：7条
 DOMAIN-SUFFIX,cws-hulu.conviva.com
