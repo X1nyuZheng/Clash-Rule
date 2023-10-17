@@ -1,3 +1,7 @@
+# NAME: TestFlight
+DOMAIN,beta.apple.com
+DOMAIN,testflight.apple.com
+DOMAIN-KEYWORD,testflight
 DOMAIN-SUFFIX,bing.com
 # FlowerCloud Emby
 DOMAIN,emby.flowercloud.yt
