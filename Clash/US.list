@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,peacocktv.com
 DOMAIN,cmaf.cf.latam.hbomaxcdn.com
 # 内容：Hulu
 # 数量：7条
+DOMAIN,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,cws-hulu.conviva.com
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,hulu.hb.omtrdc.net
