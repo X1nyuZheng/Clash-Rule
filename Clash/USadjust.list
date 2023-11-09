@@ -43,7 +43,6 @@ DOMAIN,imasdk.googleapis.com
 DOMAIN-SUFFIX,ads-v-darwin.hulustream.com
 DOMAIN-SUFFIX,iad-03.braze.com
 DOMAIN-SUFFIX,moatads.com
-#DOMAIN,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,googleadservices.com
 # 内容：AppleTV
