@@ -25,3 +25,4 @@ DOMAIN-SUFFIX,ntb.lanjie100.com
 IP-CIDR,203.107.1.1/24
 DOMAIN,kad.gotokeep.com
 DOMAIN,apm.gotokeep.com
+DOMAIN,stun6.chat.bilibili.com
