@@ -1,28 +1,3 @@
-# 内容：NBA
-# DOMAIN,nbanlds19vod.akamaized.net
-# DOMAIN,rest-prod-nba.evergent.com
-# DOMAIN,nba.studio.easelive.tv
-# DOMAIN,nbalpng.akamaized.net
-# DOMAIN,neuclnbavodns.akamaized.net
-# DOMAIN,nbadsdmt.akamaized.net
-# DOMAIN-SUFFIX,nba.com
-# DOMAIN-SUFFIX,akamaihd.net
-# DOMAIN,nbaprop.tt.omtrdc.net
-# DOMAIN,watchnba.cdnfastly.endeavorstreaming.net
-# DOMAIN,nbaprop.sc.omtrdc.net
-# DOMAIN,lion-nba-msl.akamaized.net
-# DOMAIN-SUFFIX,dscd.akamai.net
-# DOMAIN,nbaapi.neulion.com.akadns.net
-# DOMAIN-SUFFIX,dscw16.akamai.net
-# DOMAIN-SUFFIX,dsct.akamaiedge.net
-# DOMAIN-SUFFIX,dscb.akamaiedge.net
-# DOMAIN,nbaapi.neulion.com.akadns.net
-# DOMAIN,qosprod-1470947314.us-west-2.elb.amazonaws.com
-# DOMAIN-SUFFIX,neulion.com
-# DOMAIN,kinesis.eu-central-1.amazonaws.com
-# DOMAIN,nba-cdn.cloud.easelive.tv
-# DOMAIN,nba.cloud.easelive.tv
-# DOMAIN,d9esmwyn3ffr1.cloudfront.net
 # > NBA
 DOMAIN,nbalpng.akamaized.net
 DOMAIN,pubads.g.doubleclick.net
