@@ -54,7 +54,7 @@ DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steamuserimages
 # NAME: Nintendo
-# TOTAL: 121
+# TOTAL: 128
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,amiibo.com
@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,nintendo.co.kr
 DOMAIN-SUFFIX,nintendo.co.uk
 DOMAIN-SUFFIX,nintendo.co.za
 DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.com.au
 DOMAIN-SUFFIX,nintendo.com.hk
 DOMAIN-SUFFIX,nintendo.com.pt
 DOMAIN-SUFFIX,nintendo.de
@@ -108,6 +109,7 @@ DOMAIN-SUFFIX,nintendo.eu
 DOMAIN-SUFFIX,nintendo.fi
 DOMAIN-SUFFIX,nintendo.fr
 DOMAIN-SUFFIX,nintendo.it
+DOMAIN-SUFFIX,nintendo.jp
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.nl
 DOMAIN-SUFFIX,nintendo.no
@@ -122,9 +124,12 @@ DOMAIN-SUFFIX,nintendolabo.cn
 DOMAIN-SUFFIX,nintendonetwork.net
 DOMAIN-SUFFIX,nintendonyc.com
 DOMAIN-SUFFIX,nintendostore.com
+DOMAIN-SUFFIX,nintendoswitch.cn
 DOMAIN-SUFFIX,nintendoswitch.com
+DOMAIN-SUFFIX,nintendoswitch.com.cn
 DOMAIN-SUFFIX,nintendoswitch.net
 DOMAIN-SUFFIX,nintendoswitchtogether.com
+DOMAIN-SUFFIX,nintendowifi.net
 DOMAIN-SUFFIX,nintendowii.com
 DOMAIN-SUFFIX,personaltrainermath.com
 DOMAIN-SUFFIX,playnintendo.com
@@ -132,6 +137,7 @@ DOMAIN-SUFFIX,pokedex3d.com
 DOMAIN-SUFFIX,pokemon-moon.com
 DOMAIN-SUFFIX,pokemon-sun.com
 DOMAIN-SUFFIX,pokemon-sunmoon.com
+DOMAIN-SUFFIX,pokemon-unitepgame.com
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,pokemonbank.com
 DOMAIN-SUFFIX,pokemonblackwhite.com
@@ -176,3 +182,4 @@ DOMAIN-SUFFIX,xenoblade.com
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,yoshisnewisland.com
+IP-CIDR,35.192.0.0/12,no-resolve
