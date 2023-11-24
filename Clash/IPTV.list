@@ -1,6 +1,10 @@
 # 内容：IPTV
 # 数量：4条
-DOMAIN-SUFFIX,qqtv.nl
-IP-CIDR,38.143.137.0/16
-IP-CIDR,39.135.55.0/16
-IP-CIDR,38.17.21.0/16
+DOMAIN,ip-api.com
+DOMAIN-SUFFIX,googlive01.com
+IP-CIDR,14.192.210.227/32
+DOMAIN,iptv.uniyyds.top
+DOMAIN,epglist.ev666service.com
+DOMAIN,broker.00005555.cc
+IP-CIDR,1.0.0.1/32
+DOMAIN,broker.00005555.cc
