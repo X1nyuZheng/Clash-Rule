@@ -1,8 +1,9 @@
 #HBO MAX
-USER-AGENT,HBO%20NOW*
-USER-AGENT,HBOMAX*
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,api.hbo.com
+DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,maxgo.com
+USER-AGENT,HBOMAX*
