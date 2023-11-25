@@ -1,4 +1,6 @@
 #HBO MAX
+DOMAIN,static.hbo.com
+DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,api.hbo.com
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,hbomax.com
