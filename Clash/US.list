@@ -70,7 +70,7 @@ PROCESS-NAME,com.peacocktv.peacockandroid
 DOMAIN-SUFFIX,peacocktv.com
 # 内容：HBO
 # 数量：7条
-DOMAIN,cmaf.cf.latam.hbomaxcdn.com
+DOMAIN-SUFFIX,hbomaxcdn.com
 # 内容：Hulu
 # 数量：7条
 DOMAIN,pubads.g.doubleclick.net
