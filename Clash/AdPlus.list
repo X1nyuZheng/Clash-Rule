@@ -7,7 +7,7 @@ DOMAIN,mime.baidu.com
 DOMAIN,afdconf.baidu.com
 DOMAIN,mbd.baidu.com
 DOMAIN,bgg.baidu.com
-DOMAIN,wappass.baidu.com
+#DOMAIN,wappass.baidu.com
 DOMAIN,sofire.baidu.com
 DOMAIN,imeres.baidu.com
 DOMAIN,himg.bdimg.com
