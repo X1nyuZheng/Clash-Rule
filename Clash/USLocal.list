@@ -7,6 +7,7 @@ DOMAIN,mvod.itunes.apple.com
 DOMAIN,dts.podtrac.com
 DOMAIN-SUFFIX,justpodmeida.com
 DOMAIN-SUFFIX,voanews.com
+DOMAIN-SUFFIX,anchor.fm
 #1password
 DOMAIN-SUFFIX,1password.com
 DOMAIN-KEYWORD,1password
