@@ -53,7 +53,7 @@ DOMAIN-SUFFIX,s1.v.fwmrm.net
 DOMAIN-KEYWORD,uk-live
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,bbc.mp-pxcdn.com
+DOMAIN-SUFFIX,mp-pxcdn.com
 # 内容：BBCiPlayer
 # 数量：15条
 USER-AGENT,BBCiPlayer*
