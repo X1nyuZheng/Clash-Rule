@@ -12,6 +12,14 @@ DOMAIN-SUFFIX,megaphone.fm
 DOMAIN-SUFFIX,pdst.fm
 DOMAIN-SUFFIX,podtrac.com
 DOMAIN-SUFFIX,claritaspod.com
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,ping.fm
+DOMAIN-SUFFIX,player.fm
+DOMAIN-SUFFIX,turntable.fm
+DOMAIN-SUFFIX,favstar.fm
+DOMAIN-SUFFIX,moon.fm
+DOMAIN-SUFFIX,castbox.fm
+DOMAIN-SUFFIX,omny.fm
 #1password
 DOMAIN-SUFFIX,1password.com
 DOMAIN-KEYWORD,1password
