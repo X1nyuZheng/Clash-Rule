@@ -12,3 +12,5 @@ DOMAIN,cf-blast.livelikecdn.com
 #LNB TV
 DOMAIN,spottvod.akamaized.net
 DOMAIN-SUFFIX,lnb.tv
+# Plex
+DOMAIN-SUFFIX,plex.tv
