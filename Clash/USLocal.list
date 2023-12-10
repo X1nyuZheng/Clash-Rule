@@ -1,3 +1,20 @@
+# NAME: Espn
+# TOTAL: 11
+DOMAIN,espn.api.edge.bamgrid.com
+DOMAIN,espn.hb.omtrdc.net
+DOMAIN,espndotcom.tt.omtrdc.net
+DOMAIN-SUFFIX,dtci.co
+DOMAIN-SUFFIX,dtci.technology
+DOMAIN-SUFFIX,espn.co.uk
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espn.net
+DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,espnqa.com
+DOMAIN-SUFFIX,watchespn.com
+DOMAIN,espn.playback.edge.bamgrid.com
+DOMAIN,aeng.plus.espn.prod.us-east-1.bamgrid.com
+DOMAIN-KEYWORD,espn
+DOMAIN-SUFFIX,espn.api.edge.bamgrid.com
 # Docker
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
