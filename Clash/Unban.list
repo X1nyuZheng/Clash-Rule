@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,xinyuhome.top
 # Unbreak 白名单 不应该被广告链接的网站
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN-SUFFIX,p2p.huya.com
