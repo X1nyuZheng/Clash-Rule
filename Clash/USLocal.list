@@ -49,6 +49,12 @@ DOMAIN-SUFFIX,prxu.org
 DOMAIN-SUFFIX,simplecastaudio.com
 DOMAIN-SUFFIX,arttrk.com
 DOMAIN-SUFFIX,libsyn.com
+DOMAIN-SUFFIX,streamtheworld.com
+DOMAIN-SUFFIX,ihrhls.com
+DOMAIN-SUFFIX,amperwave.net
+DOMAIN,nprdmcoitunes.akamaized.net
+DOMAIN-KEYWORD,tunein
+DOMAIN,d25j5qm9y8ulag.cloudfront.net
 #1password
 DOMAIN-SUFFIX,1password.com
 DOMAIN-KEYWORD,1password
