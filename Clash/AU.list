@@ -12,7 +12,7 @@ DOMAIN,mgd0ee5iankkv3gidl14rm7c0.litix.io
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN-SUFFIX,stan.com.au
 DOMAIN-SUFFIX,432-stan.akamaized.net
-DOMAIN-KEYWORD,stan
+#DOMAIN-KEYWORD,stan
 DOMAIN-SUFFIX,streamcoimg-a.akamaihd.net
 DOMAIN-SUFFIX,videocdn-sbs.akamaized.net
 DOMAIN-SUFFIX,optussport.tv
