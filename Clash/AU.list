@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,sbsvodns-vh.akamaihd.net
 DOMAIN-SUFFIX,sbs-live-dai.akamaized.net
 DOMAIN-SUFFIX,sbs-live.akamaized.net
 DOMAIN-SUFFIX,sbs-live-dai.akamaized.net
-DOMAIN-SUFFIX,lic.drmtoday.com
+#DOMAIN-SUFFIX,lic.drmtoday.com
 DOMAIN-SUFFIX,optus.com.au                
 DOMAIN-SUFFIX,optusnet.com.au
 DOMAIN-SUFFIX,kayosports.com.au
