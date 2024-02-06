@@ -1,17 +1,5 @@
-# 搜狗输入法
-DOMAIN,get.sogou.com
 # Peacock
 DOMAIN,video-ads-module.ad-tech.nbcuni.com
-# 百度输入法
-DOMAIN,mime.baidu.com
-DOMAIN,afdconf.baidu.com
-DOMAIN,mbd.baidu.com
-DOMAIN,bgg.baidu.com
-#DOMAIN,wappass.baidu.com
-DOMAIN,sofire.baidu.com
-DOMAIN,imeres.baidu.com
-DOMAIN,himg.bdimg.com
-DOMAIN,h2tcbox.baidu.com
 # Wetype
 DOMAIN,rmonitor.qq.com
 DOMAIN,wetype.weixin.qq.com
