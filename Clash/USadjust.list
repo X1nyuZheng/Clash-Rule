@@ -66,25 +66,6 @@ DOMAIN-SUFFIX,iad-03.braze.com
 DOMAIN-SUFFIX,moatads.com
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,googleadservices.com
-# NAME: AppleNews
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-06-23 17:32:17
-# DOMAIN: 8
-# DOMAIN-SUFFIX: 1
-# USER-AGENT: 2
-# TOTAL: 11
-DOMAIN,apple.comscoreresearch.com
-DOMAIN,gateway.icloud.com,PROXY
-DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,news-assets.apple.com
-DOMAIN,news-client-search.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN-SUFFIX,apple.news
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
 # 内容：GoogleFCM 谷歌推送服务
 # 数量：35条
 DOMAIN,alt1-mtalk.google.com
