@@ -1,11 +1,6 @@
+# MAX
+DOMAIN,prd.api.discomax.com
 # NAME: AppleNews
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-06-23 17:32:17
-# DOMAIN: 8
-# DOMAIN-SUFFIX: 1
-# USER-AGENT: 2
-# TOTAL: 11
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,gateway.icloud.com,PROXY
 DOMAIN,gspe1-ssl.ls.apple.com
