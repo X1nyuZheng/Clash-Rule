@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,prd.api.discomax.com
 # NAME: AppleNews
 DOMAIN,apple.comscoreresearch.com
-DOMAIN,gateway.icloud.com,PROXY
+DOMAIN,gateway.icloud.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-assets.apple.com
 DOMAIN,news-client-search.apple.com
