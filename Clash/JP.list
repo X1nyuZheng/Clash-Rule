@@ -1,3 +1,15 @@
+# Skyshowtime
+DOMAIN-SUFFIX,cssott.com
+# NFLgamepass
+DOMAIN,vod-i-main-nflusvideo.akamaized.net
+DOMAIN-SUFFIX,nflgamepass.com
+DOMAIN,nflgp-prd.akamaized.net
+DOMAIN,cf-blast.livelikecdn.com
+#LNB TV
+DOMAIN,spottvod.akamaized.net
+DOMAIN-SUFFIX,lnb.tv
+# Plex
+DOMAIN-SUFFIX,plex.tv
 # NAME: GitHub
 # TOTAL: 30
 DOMAIN-SUFFIX,atom.io
