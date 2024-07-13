@@ -1,3 +1,10 @@
+# NAME: TIDAL
+DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
+DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,tidalhifi.com
+DOMAIN-SUFFIX,wimpmusic.com
+USER-AGENT,TIDAL*
+USER-AGENT,TIDAL*dia
 # Skyshowtime
 DOMAIN-SUFFIX,cssott.com
 # NFLgamepass
