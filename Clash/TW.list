@@ -15,12 +15,14 @@
 #DOMAIN,pitaya-task-sg.byteintlapi.com
 # 内容：Bahamut
 # 数量：6条
-USER-AGENT,Anime*
 DOMAIN,bahamut.akamaized.net
-DOMAIN,gamer-cds.cdn.hinet.net
-DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,viblast.com
+USER-AGENT,Anime*
 # 内容：HBO_GO_HKG
 # 数量：21条
 USER-AGENT,HBO%20GO%20PROD*
