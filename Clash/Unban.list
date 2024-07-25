@@ -1,6 +1,15 @@
 DOMAIN-SUFFIX,xinyuhome.top
 # Emby
-DOMAIN-SUFFIX,dpx4.1110111.top
+DOMAIN-SUFFIX,http://dpx1.1110111.top:80
+DOMAIN-SUFFIX,http://dpx2.1110111.top:80
+DOMAIN-SUFFIX,http://dpx3.1110111.top:80
+DOMAIN-SUFFIX,http://dpx4.1110111.top:80
+DOMAIN-SUFFIX,http://dpx5.1110111.top:80
+DOMAIN-SUFFIX,http://dpx6.123456.buzz:80
+DOMAIN-SUFFIX,http://dpx7.123456.buzz:80
+DOMAIN-SUFFIX,http://dpx8.123456.buzz:80
+DOMAIN-SUFFIX,http://dpx9.123456.buzz:80
+DOMAIN-SUFFIX,http://dpx10.123456.buzz:80
 # Microsoft Translate
 DOMAIN,api.cognitive.microsofttranslator.com
 # Unbreak 白名单 不应该被广告链接的网站
