@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,xinyuhome.top
 DOMAIN-SUFFIX,plex.tv
+# Emby
+DOMAIN-SUFFIX,dpx4.1110111.top
 # Microsoft Translate
 DOMAIN,api.cognitive.microsofttranslator.com
 # Unbreak 白名单 不应该被广告链接的网站
