@@ -16,7 +16,7 @@ DOMAIN,cf-blast.livelikecdn.com
 DOMAIN,spottvod.akamaized.net
 DOMAIN-SUFFIX,lnb.tv
 # Plex
-DOMAIN-SUFFIX,plex.tv
+# DOMAIN-SUFFIX,plex.tv
 # NAME: GitHub
 # TOTAL: 30
 DOMAIN-SUFFIX,atom.io
